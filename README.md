@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+💻Website: <https://pn11.github.io>  
+🎤Podcast: <https://interaxion-podcast.github.io/>
+
 <!--
 **pn11/pn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
