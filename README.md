@@ -5,7 +5,7 @@
 🎤 Podcast: <https://interaxion-podcast.github.io>
 
 
-🐎 AtCoder: [pn11](https://atcoder.jp/users/pn11)  
+🐎 AtCoder: [pn11](https://atcoder.jp/users/pn11) / [Scores](https://atcoder-scores.herokuapp.com/graph?user=pn11) / [Problems](https://kenkoooo.com/atcoder/#/user/pn11)  
 🦆 Kaggle: [kamo](https://www.kaggle.com/kamogawakamo)  
 📈 ProbSpace: [pn11](https://prob.space/users/pn11/0)  
 
